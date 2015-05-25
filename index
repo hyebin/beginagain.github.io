@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Begin Again Main</title>
+ <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+        <style>
+           
+            @media screen and (min-width: 361px) and (max-width:640px){
+  #menu
+{ position: absolute;
+  top: 450px;
+  left: 180px;}
+
+.mtra
+{background-color: #403f3d;
+ position: absolute;
+ color: #03c1e5;
+ width: 150px;
+ top: 1px;
+ left: 360px;
+ text-align: center;
+}
+
+.mca
+{background-color: #403f3d;
+ color: #03c1e5;
+ position: absolute;
+  width: 150px;
+ top: 91px;
+ left: 360px;
+ text-align: center;}
+
+.most
+{background-color: #403f3d;
+ color: #03c1e5;
+  position: absolute;
+ width: 150px;
+ top: -90px;
+ left: 360px;
+ text-align: center;}
+
+a:link{text-decoration:none; color: #03c1e5;}
+a:visited{color:#03c1e5;}
+a:hover{color:#fed01e;}
+            }
+            @media screen and (min-width: 641px){
+               #menu
+{ position: absolute;
+  top: 450px;
+  left: 180px;}
+
+.mtra
+{background-color: #403f3d;
+ position: absolute;
+ color: #03c1e5;
+ width: 150px;
+ top: 91px;
+ left: 190px;
+ text-align: center;
+}
+
+.mca
+{background-color: #403f3d;
+ color: #03c1e5;
+ position: absolute;
+  width: 150px;
+ top: 91px;
+ left: 360px;
+ text-align: center;}
+
+.most
+{background-color: #403f3d;
+ color: #03c1e5;
+  position: absolute;
+ width: 150px;
+ top: 91px;
+ left: 530px;
+ text-align: center;}
+
+a:link{text-decoration:none; color: #03c1e5;}
+a:visited{color:#03c1e5;}
+a:hover{color:#fed01e;} 
+            } 
+          
+
+  </style>
+
+
+</head>
+<body>
+  <div class="web">
+    <img src="http://beginagainfilm.com/images/beginagain-share.jpg";>
+    
+    
+     <div id="menu">
+      
+      
+      <div class="mtra"><h2><a href="BeginAgain_trailer.html">TRAILER</a></h2></div>
+       <div class="mca"><h2><a href="BeginAgain_cast.html">CAST</a></h2></div>
+       <div class="most"><h2><a href="BeginAgain_OST.html">OST</a></h2></div>
+     
+    </div>
+
+  
+  
+  </div>
+</body>
+</html>
