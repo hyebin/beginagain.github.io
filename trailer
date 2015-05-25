@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Begin Again Video</title>
+
+  <style type="text/css">
+ 
+            @media screen and (min-width: 361px) and (max-width:640px){
+             
+                #web
+{width: 1024px;
+ height: 800px;
+ position: absolute;
+ top: 30px;
+ left: 130px;}
+
+#logo
+{width: 160px;}
+
+.mindex
+{background-color: #403f3d;
+ position: absolute;
+ color: #fed01e;
+ width: 150px;
+ top: 9px;
+ left: 190px;
+ text-align: center;
+}
+
+.mtra
+{background-color: #403f3d;
+ position: absolute;
+ color: #fed01e;
+ width: 150px;
+ top: 9px;
+ left: 360px;
+ text-align: center;
+}
+
+.mca
+{background-color: #403f3d;
+ color: #03c1e5;
+ position: absolute;
+  width: 150px;
+ top: 97px;
+ left: 190px;
+ text-align: center;}
+
+.most
+{background-color: #403f3d;
+ color: #03c1e5;
+  position: absolute;
+ width: 150px;
+ top: 97px;
+ left: 360px;
+ text-align: center;}
+
+.video
+{position: relative;
+ top: 10px;
+ left: 50px;
+ }
+
+h1
+{margin: 15px 5px 5px 50px;
+ color: #fed01e;}
+
+h3
+{margin: 15px 35px 35px 50px;}
+
+h5
+{margin: 15px 5px 5px 50px;
+ }
+
+p
+{margin: 15px 50px 50px 50px;
+ width: 500px;
+}
+
+body
+{background-image: url('https://googledrive.com/host/0BwTM-YlKys1cVC1JbTkzZ1FTWjQ/beginagain 배경.jpg');}
+
+a:link{text-decoration:none; color: #03c1e5;}
+a:visited{color:#03c1e5;}
+a:hover{color:#fed01e;}
+
+            }
+            @media screen and (min-width: 641px){
+                .p1 {background-color: green;} 
+             #web
+{width: 1024px;
+ height: 800px;
+ position: absolute;
+ top: 30px;
+ left: 130px;}
+
+#logo
+{width: 160px;}
+
+.mindex
+{background-color: #403f3d;
+ position: absolute;
+ color: #fed01e;
+ width: 150px;
+ top: 91px;
+ left: 190px;
+ text-align: center;
+}
+
+.mtra
+{background-color: #403f3d;
+ position: absolute;
+ color: #fed01e;
+ width: 150px;
+ top: 91px;
+ left: 360px;
+ text-align: center;
+}
+
+.mca
+{background-color: #403f3d;
+ color: #03c1e5;
+ position: absolute;
+  width: 150px;
+ top: 91px;
+ left: 530px;
+ text-align: center;}
+
+.most
+{background-color: #403f3d;
+ color: #03c1e5;
+  position: absolute;
+ width: 150px;
+ top: 91px;
+ left: 700px;
+ text-align: center;}
+
+.video
+{position: relative;
+ top: 10px;
+ left: 50px;
+ }
+
+h1
+{margin: 15px 5px 5px 50px;
+ color: #fed01e;}
+
+h3
+{margin: 15px 35px 35px 50px;}
+
+h5
+{margin: 15px 5px 5px 50px;
+ }
+
+p
+{margin: 15px 50px 50px 50px;
+ width: 850px;
+}
+
+body
+{background-image: url('https://googledrive.com/host/0BwTM-YlKys1cVC1JbTkzZ1FTWjQ/beginagain 배경.jpg');}
+
+a:link{text-decoration:none; color: #03c1e5;}
+a:visited{color:#03c1e5;}
+a:hover{color:#fed01e;}
+ } 
+        
+          
+    #hh{
+      display: none;
+    }
+
+
+
+  </style>
+
+ <script>
+    function on(){
+      var h3 = document.getElementById("hh");
+      h3.style.display="block";
+      }
+    
+  </script>
+
+
+ 
+
+
+</head>
+<body>
+  
+  <div id="web">
+    <div id="menu">
+      
+      
+      <img id="logo" src="https://lh3.googleusercontent.com/-50ufrLCCTlQ/AAAAAAAAAAI/AAAAAAAAADs/-qtnDgm8ON4/photo.jpg">
+      
+
+       <div class="mindex"><h2><a href="BeginAgain_index.html">HOME</a></h2></div>
+       <div class="mtra"><h2><a href="BeginAgain_trailer.html">TRAILER</a></h2></div>
+       <div class="mca"><h2><a href="BeginAgain_cast.html">CAST</a></h2></div>
+       <div class="most"><h2><a href="BeginAgain_OST.html">OST</a></h2></div>
+     
+    </div>
+    <h1>TRAILER</h1>
+    <div class="video">
+        <object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0' width='480' height='360' id='movie' align='middle'><param name='quality' value='high' /><param name='movie' value='http://flvr.pandora.tv/flv2pan/flvmovie.dll/userid=moonaver&prgid=50968973&countryChk=ko&skin=1&autoPlay=false&share=on' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='wmode' value='transparent' /><embed src='http://flvr.pandora.tv/flv2pan/flvmovie.dll/userid=moonaver&prgid=50968973&countryChk=ko&skin=1&autoPlay=false&share=on' type='application/x-shockwave-flash' wmode='transparent' allowScriptAccess='always' allowFullScreen='true' pluginspage='http://www.macromedia.com/go/getflashplayer' width='480' height='360' /></embed></object>
+  </div>
+  <h3 onclick="on()" ><a href="#">줄거리</a></h3>
+
+  <div id="hh">
+  <h5>“다시 시작해, 너를 빛나게 할 노래를!”</h5> 
+
+  <p>싱어송라이터인 ‘그레타’(키이라 나이틀리)는 남자친구 ‘데이브’(애덤 리바인)가 메이저 음반회사와 계약을 하게 되면서 뉴욕으로 오게 된다. 그러나 행복도 잠시, 오랜 연인이자 음악적 파트너로서 함께 노래를 만들고 부르는 것이 좋았던 그레타와 달리 스타가 된 데이브의 마음은 어느새 변해버린다. 
+ 스타 음반프로듀서였지만 이제는 해고된 ‘댄’(마크 러팔로)은 미치기 일보직전 들른 뮤직바에서 그레타의 자작곡을 듣게 되고 아직 녹슬지 않은 촉을 살려 음반제작을 제안한다. 거리 밴드를 결성한 그들은 뉴욕의 거리를 스튜디오 삼아 진짜로 부르고 싶었던 노래를 만들어가는데…
+</p>
+  </div>
+  </div>
+
+</body>
+</html>
